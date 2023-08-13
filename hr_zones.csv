@@ -1,0 +1,7 @@
+zone_name,zone_number,min_pct,effort_level,perceived_exertion,benefits
+Zone 0,0,,Inactive,"Not working.","Not doing enough to be considered activity."
+Zone 1,1,0.5,Warm Up,"Relaxed, easy pace, rhythmic breathing.","Beginning-level aerobic training, reduces stress."
+Zone 2,2,0.6,Easy,"Comfortable pace, slightly deeper breathing, conversation possible.","Basic cardiovascular training, good recovery pace."
+Zone 3,3,0.7,Aerobic,"Moderate pace, more difficult to hold conversation.","Improved aerobic capacity, optimal cardiovascular training."
+Zone 4,4,0.8,Threshold,"Fast pace and a bit uncomfortable, breathing forceful.","Improved anaerobic capacity and threshold, improved speed."
+Zone 5,5,0.9,Maximum,"Sprinting pace, unsustainable for long period of time, labored breathing.","Anaerobic and muscular endurance, increased power."
