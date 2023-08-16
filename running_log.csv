@@ -34,9 +34,9 @@ Date,Day of Week,Month,Month+Year,Week of Year,Week+Year,Distance (mi),Run Type,
 8/10/23,05 Thu,08 Aug,2023 08 Aug,32,2023 32,1.04,Recover,FALSE,220.0,0:16:01,0:15:17,124,62,0:15:24,1.38,0.7540532376,69%,zone 2: light,52%,zone 1: very light
 8/11/23,06 Fri,08 Aug,2023 08 Aug,32,2023 32,2.00,Easy,FALSE,220.0,0:33:25,0:16:38,128,67,0:16:43,2.97,0.6733167082,71%,zone 3: moderate,54%,zone 1: very light
 8/12/23,07 Sat,08 Aug,2023 08 Aug,32,2023 32,6.24,Long,FALSE,220.0,1:47:56,0:17:18,124,67,0:17:18,9.29,0.6713821754,69%,zone 2: light,50%,zone 1: very light
-8/13/23,01 Sun,08 Aug,2023 08 Aug,33,2023 33,0,Rest,FALSE,219.6,,,,,,,,0%,below,0%,below
-8/14/23,02 Mon,08 Aug,2023 08 Aug,33,2023 33,2.02,Easy,FALSE,219.6,0:31:21,0:15:33,127,65,,,,0%,below,0%,below
-8/15/23,03 Tue,08 Aug,2023 08 Aug,33,2023 33,,,FALSE,,,,,,,,,0%,below,0%,below
+8/13/23,01 Sun,08 Aug,2023 08 Aug,33,2023 33,0.00,Rest,FALSE,219.6,,,,,,,,0%,below,0%,below
+8/14/23,02 Mon,08 Aug,2023 08 Aug,33,2023 33,2.02,Easy,FALSE,219.6,0:31:21,0:15:33,127,65,0:15:31,2.76,0.7305881023,70%,zone 3: moderate,53%,zone 1: very light
+8/15/23,03 Tue,08 Aug,2023 08 Aug,33,2023 33,3.29,Threshold,FALSE,219.2,0:47:00,0:14:16,140,64,0:14:17,4.57,0.72,77%,zone 3: moderate,65%,zone 2: light
 8/16/23,04 Wed,08 Aug,2023 08 Aug,33,2023 33,,,FALSE,,,,,,,,,0%,below,0%,below
 8/17/23,05 Thu,08 Aug,2023 08 Aug,33,2023 33,,,FALSE,,,,,,,,,0%,below,0%,below
 8/18/23,06 Fri,08 Aug,2023 08 Aug,33,2023 33,,,FALSE,,,,,,,,,0%,below,0%,below
